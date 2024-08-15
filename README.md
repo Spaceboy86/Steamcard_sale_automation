@@ -15,6 +15,7 @@ This is a small proof-of-concept (PoC) program to automate the sale of Steam tra
 ## Requirements
 
 - Python 3.x
+- [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/)
 - [Selenium](https://pypi.org/project/selenium/)
 - [pyautogui](https://pypi.org/project/PyAutoGUI/)
 - [pwinput](https://pypi.org/project/pwinput/)
